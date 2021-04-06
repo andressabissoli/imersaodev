@@ -1,4 +1,0 @@
-# oi
-
-nova info
-/o/
